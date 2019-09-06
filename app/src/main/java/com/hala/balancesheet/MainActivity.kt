@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         addFragment()
     }
 
+
     private fun addFragment() {
 
         val fragmentManager1: FragmentManager = supportFragmentManager
